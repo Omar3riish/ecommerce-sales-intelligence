@@ -125,4 +125,4 @@ Through this project, I strengthened my understanding of the complete data analy
 Data Analyst | Machine Learning Learner
 
 - GitHub: https://github.com/Omar3riish
-- LinkedIn: *(Add your LinkedIn profile URL here)*
+- LinkedIn: *https://www.linkedin.com/in/omar3rish/*
