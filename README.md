@@ -1,6 +1,6 @@
-# 🛒 E-commerce Data Cleaning & Exploratory Data Analysis
+# E-commerce Data Cleaning & Exploratory Data Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of my **Data Science Internship at DecodeLabs**.
 
@@ -8,7 +8,7 @@ The objective was to clean an e-commerce dataset, perform exploratory data analy
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 - **Records:** 1,200 e-commerce orders
 - **Features:** 14 columns
@@ -18,7 +18,7 @@ The dataset contains customer orders, products, payment methods, shipping inform
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -28,7 +28,7 @@ The dataset contains customer orders, products, payment methods, shipping inform
 
 ---
 
-## 📋 Project Workflow
+## Project Workflow
 
 ### 1. Data Exploration
 - Loaded the dataset
@@ -61,7 +61,7 @@ Created new features including:
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 ### Product Distribution
 
@@ -81,7 +81,7 @@ Created new features including:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ecommerce-data-cleaning-eda/
@@ -99,7 +99,7 @@ ecommerce-data-cleaning-eda/
 
 ---
 
-## 🚀 Skills Practiced
+## Skills Practiced
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -112,13 +112,13 @@ ecommerce-data-cleaning-eda/
 
 ---
 
-## 🎯 Key Takeaways
+## Key Takeaways
 
 Through this project, I strengthened my understanding of the complete data analysis workflow, from loading raw data to cleaning, exploring, visualizing, and preparing it for future machine learning tasks.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Omar**
 
