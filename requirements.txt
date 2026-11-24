@@ -1,4 +1,13 @@
+# Core data analysis
 pandas
 numpy
+
+# Excel workbook support
+openpyxl
+
+# Data visualization
+plotly
 matplotlib
+
+# Notebook environment
 jupyter
